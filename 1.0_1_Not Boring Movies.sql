@@ -39,9 +39,6 @@ Output:
 Explanation: 
 We have three movies with odd-numbered IDs: 1, 3, and 5.
 The movie with ID = 3 is boring so we do not include it in the answer.
-설명:
-홀수 ID인 1, 3, 5의 영화 3개가 있습니다.
-ID = 3인 영화는 'boring'이므로 답변에 포함하지 않습니다.
 */
 
 # [SETTING]

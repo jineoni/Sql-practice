@@ -63,7 +63,7 @@ SELECT *
 FROM Views;
 
 # [KEY]
-# 'There is no primary key for this table, it may have duplicate rows.' : DISTINCT 처리 필요
+# 'There is no primary key for this table, it may have duplicate rows.' : DISTINCT 처리 필요함.
 # Primary Key(=PK): 중복되어 나타날 수 없는 단일 값(unique) (e.g. 우리나라 국민의 주민등록번호)
 
 # [WRONG - CHECK FROM LEETCODE]
