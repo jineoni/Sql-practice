@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/not-boring-movies/ 
 
-Table: Cinema
+Table: Cinema 
 +----------------+----------+
 | Column Name    | Type     |
 +----------------+----------+

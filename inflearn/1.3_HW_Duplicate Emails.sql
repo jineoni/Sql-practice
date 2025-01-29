@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/duplicate-emails/ 
 
-Table: Person
+Table: Person 
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+

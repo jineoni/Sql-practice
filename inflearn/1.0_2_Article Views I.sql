@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/article-views-i/ 
 
-Table: Views
+Table: Views 
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+

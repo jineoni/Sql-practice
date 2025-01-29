@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
 
-Table: Employees
+Table: Employees 
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+

@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/queries-quality-and-percentage/ 
 
-Table: Queries
+Table: Queries 
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+

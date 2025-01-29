@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/Product-sales-analysis-i/ 
 
-Table: Sales
+Table: Sales 
 +-------------+-------+
 | Column Name | Type  |
 +-------------+-------+

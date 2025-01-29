@@ -1,7 +1,7 @@
 /*
 https://leetcode.com/problems/combine-two-tables/ 
 
-Table: Person
+Table: Person 
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
